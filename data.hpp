@@ -1,8 +1,10 @@
 
 /* ******** change name here... ********* */
 
+// just make sure the 2nd terminal is named lora 2 with a local address 0xBB and you're good 
+
 String blueToothName = "lora";
-byte localAddress = 0xAA; // address of this device
+byte localAddress = 0xAA; // address of this device 
 
 
 
