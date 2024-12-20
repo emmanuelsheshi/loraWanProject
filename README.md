@@ -1,5 +1,5 @@
 # loraWanProject
-loraWanMobile application apk [https://expo.dev/accounts/emmanuelsheshi/projects/loraApp/builds/dc84850c-5c76-442a-8829-87a7b6357452]
+loraWanMobile application apk(andriod devices only) the link is found here : https://expo.dev/accounts/emmanuelsheshi/projects/loraApp/builds/dc84850c-5c76-442a-8829-87a7b6357452
 This is a simple mobile appication to ease offline messaging with the use of LoRaWan. The hardware is based on the Esp32 mcu and the sx1278 LoRa module. Just hook up the circuit as shown in the ciruit diagram and install the software. Search for lora or lora2 with your bluetooth, connect to it and boom. instant comunication...
 enjoy  :-) 
 
